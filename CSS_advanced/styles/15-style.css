@@ -2,9 +2,6 @@
 
 /* Document
    ========================================================================== */
-*{
-    box-sizing: border-box;
-}
 html {
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
@@ -318,6 +315,10 @@ template {
 }
 
 /*# sourceMappingURL=normalize.min.css.map */
+
+*{
+    box-sizing: border-box;
+}
 
 html {
     scroll-behavior: smooth;
