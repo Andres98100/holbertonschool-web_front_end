@@ -3,7 +3,6 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    display: flex;
     color: #161616;
 }
 
