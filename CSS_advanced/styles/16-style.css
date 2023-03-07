@@ -388,8 +388,9 @@ a:active {
 }
 
 .container{
-    width: 900px;
-    margin: 0, auto, 0, auto;
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 :root {
