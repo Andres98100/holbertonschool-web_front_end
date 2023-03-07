@@ -374,14 +374,14 @@ a:active {
 
 .section-header {
     text-align: var(--section-header-align);
-    padding: var(--section-padding);
+    padding: var(--section-header-padding);
 }
 
 .section-body{
-    padding: var(--section-padding);
+    padding: var(--section-body-padding);
 }
 .section-footer{
-    padding: var(--section-padding);
+    padding: var(--section-footer-padding);
     text-align: var(--section-footer-align);
 }
 
@@ -407,7 +407,7 @@ a:active {
 }
 
 .footer{
-    padding: var(--section-padding);
+    padding: var(--footer-padding);
 }
 
 :root {
