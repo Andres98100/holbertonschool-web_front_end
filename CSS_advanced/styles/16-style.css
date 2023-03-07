@@ -316,7 +316,7 @@ template {
 
 /*# sourceMappingURL=normalize.min.css.map */
 
-*{
+*, *::before, *::after{
     box-sizing: border-box;
 }
 
@@ -385,6 +385,11 @@ a:active {
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
+}
+
+.container{
+    width: 900px;
+    margin: 0, auto, 0, auto;
 }
 
 :root {
